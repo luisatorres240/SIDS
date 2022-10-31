@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<GroundOverlay id="ID_0">
+	<name>2m SLR</name>
+	<snippet></snippet>
+	<description>2mSLR.tif</description>
+	<gx:balloonVisibility>1</gx:balloonVisibility>
+	<drawOrder>1000</drawOrder>
+	<Icon>
+		<href>Layer0.png</href>
+	</Icon>
+	<LatLonBox>
+		<north>7.144191436328521</north>
+		<south>7.068082423460533</south>
+		<east>171.402174455547</east>
+		<west>171.3476826504123</west>
+	</LatLonBox>
+</GroundOverlay>
+</kml>
